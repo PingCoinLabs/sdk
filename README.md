@@ -1,5 +1,6 @@
 # ⚡ Ping Coin
 
+Live on Pump.fun : mcvGDJjX9TjQL4C4rheE9MU1E6zNuSPGy9Rsd42pump
 > **Ping Coin isn’t just fast — it’s lightning speed. Fueling the next wave of global crypto adoption.**
 
 ---
